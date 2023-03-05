@@ -1,7 +1,7 @@
 package A_Introduction;
-// The Above Given Line declares the package
+//This is a single line comment: The Above Given Line declares the package
 
-/* class name same as filename and access modifier public so that
+/* this is a multiline comment: class name same as filename and access modifier public so that
     it is accessible from anywhere */
 public class A_Hello{
     public static void main(String[] args){
